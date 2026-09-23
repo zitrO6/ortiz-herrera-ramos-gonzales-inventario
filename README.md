@@ -35,6 +35,7 @@ Instalar las dependencias:
 
 ```bash
 npm install
+```
 
 Ejecutar el proyecto:
 
