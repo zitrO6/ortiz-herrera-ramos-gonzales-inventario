@@ -13,7 +13,7 @@ function Equipo({ equipo }) {
         </p>
 
         <p className="card-text">
-          <strong>Precio:</strong> {equipo.precio}
+          <strong>Precio:</strong> Bs {equipo.precio}
         </p>
 
         <p className="card-text">

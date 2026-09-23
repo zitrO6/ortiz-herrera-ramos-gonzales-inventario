@@ -3,7 +3,7 @@
 ## Integrantes
 
 - Emmanuel Ortiz Herrera
-- [Nombre completo del segundo integrante]
+- Matias Ramos Gonzales 
 
 ## Descripción
 
